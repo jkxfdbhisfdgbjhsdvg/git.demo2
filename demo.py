@@ -1,10 +1,13 @@
 # This is a simple hello word program
 
+def main():
+    pass
+
 name = input("Give me your name: ")
 
-def greet(name: str):
+def greeting(name: str):
     print(f'Hello {name}!')
 
-greet(name)
+greeting(name)
 
 # TODO: implament main function
