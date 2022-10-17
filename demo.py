@@ -1,5 +1,8 @@
 # This is a simole hello word program
 
 name = input("Give me your name: ")
-print(f'Hello {name}!')
 
+def greeting(name: str):
+    print(f'Hello {name}!')
+
+greeting(name)
