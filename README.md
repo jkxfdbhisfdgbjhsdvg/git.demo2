@@ -15,3 +15,11 @@ git config --global user.name "gipsz jakab"
 ---
 
 inline code: `rm -rf *`
+
+### New chapter
+```pyton
+def main():
+    print("hello")
+```
+
+---
