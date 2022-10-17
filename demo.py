@@ -10,4 +10,5 @@ def greeting(name: str):
 
 greeting(name)
 
+# TODO: something
 # TODO: implament main function
