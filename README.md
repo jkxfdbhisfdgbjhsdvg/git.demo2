@@ -8,7 +8,7 @@ git config --global user.name "gipsz jakab"
 
 ## Sub-header
 - item1
-- item2
+
 - item3
 
 
