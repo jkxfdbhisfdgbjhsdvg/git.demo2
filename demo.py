@@ -11,4 +11,8 @@ def greeting(name: str):
 greeting(name)
 
 # TODO: something
+<<<<<<< HEAD
 # TODO: implament main function
+=======
+# TODO: implament main function
+>>>>>>> refs/remotes/origin/main
